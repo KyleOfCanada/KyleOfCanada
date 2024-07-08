@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Kyle Roddick
 
-I'm a post-doc at Dalhousie University, in the Department of Psychology and Neuroscience.
+I'm an assitant professor at Mount Allison University, in the Department of Psychology.
 
 [<img src="https://camo.githubusercontent.com/fcb03fb61136ea628ef5f032737ff4306b2298f039befe527fc9770e3063e825/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265736561726368676174652e737667" width="48">](https://www.researchgate.net/profile/Kyle-Roddick)
 [<img src="https://ndownloader.figshare.com/files/8439044/preview/8439044/preview.jpg" width="48">](https://orcid.org/0000-0003-2701-8166)
