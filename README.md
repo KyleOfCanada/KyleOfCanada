@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Kyle Roddick
 
-I'm an assitant professor at Mount Allison University, in the Department of Psychology.
+I'm an assistant professor at Mount Allison University, in the Department of Psychology.
 
 [<img src="images/orcid-svgrepo-com.svg" width="48">](https://orcid.org/0000-0003-2701-8166)
 [<img src="images/google-scholar-svgrepo-com.svg" width="48">](https://scholar.google.ca/citations?user=mhLLVXMAAAAJ&hl=en)
