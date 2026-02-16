@@ -20,4 +20,5 @@ I'm an assistant professor at Mount Allison University, in the Department of Psy
 [<img src="images/researchgate-svgrepo-com.svg" width="48">](https://www.researchgate.net/profile/Kyle-Roddick)
 
 ![Metrics](/github-metrics.svg)
+
 ![Languages](metrics.plugin.languages.svg)
