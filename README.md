@@ -19,4 +19,4 @@ I'm an assistant professor at Mount Allison University, in the Department of Psy
 [<img src="images/google-scholar-svgrepo-com.svg" width="48">](https://scholar.google.ca/citations?user=mhLLVXMAAAAJ&hl=en)
 [<img src="images/researchgate-svgrepo-com.svg" width="48">](https://www.researchgate.net/profile/Kyle-Roddick)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=KyleOfCanada&count_private=true&theme=dark)
+![Metrics](/github-metrics.svg)
